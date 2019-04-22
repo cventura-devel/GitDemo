@@ -8,5 +8,6 @@ namespace C.a
 {
     class Class1
     {
+        int x;
     }
 }
